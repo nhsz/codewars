@@ -2,8 +2,5 @@
 
 
 def char_freq(message):
-    dict = {}
-    for character in message:
-        dict[character] = message.count(character)
 
-    return dict
+    return { character : message.count(character) for character in message }
