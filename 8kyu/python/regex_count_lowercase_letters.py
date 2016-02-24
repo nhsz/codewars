@@ -1,4 +1,4 @@
-# http://www.codewars.com/kata/56a946cd7bd95ccab2000055/train/python
+# http://www.codewars.com/kata/56a946cd7bd95ccab2000055/
 
 
 def lowercase_count(strng):
