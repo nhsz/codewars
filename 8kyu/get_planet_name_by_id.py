@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/515e188a311df01cba000003/
 
-
 def get_planet_name(id):
     switch = {
         1: "Mercury",
