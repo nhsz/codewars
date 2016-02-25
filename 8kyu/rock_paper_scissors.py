@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/5672a98bdbdd995fad00000f/
 
-
 def rps(p1, p2):
     beats = {"rock": "scissors", "paper": "rock", "scissors": "paper"}
     if beats[p1] == p2:
