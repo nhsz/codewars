@@ -1,7 +1,7 @@
 # Codewars
 
-## Problems solved: 91
+## Problems solved: 106
 
-- **5kyu:** 1
-- **7kyu:** 2
-- **8kyu:** 88
+- **5kyu:** 2
+- **7kyu:** 8
+- **8kyu:** 96
