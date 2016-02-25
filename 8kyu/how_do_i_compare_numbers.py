@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/55d8618adfda93c89600012e/
 
-
 def what_is(x):
     if x == 42:
         return 'everything'
