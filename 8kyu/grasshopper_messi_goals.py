@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/55ca77fa094a2af31f00002a/
 
-
 la_liga_goals = 43
 champions_league_goals = 10
 copa_del_rey_goals = 5
