@@ -1,10 +1,7 @@
 # http://www.codewars.com/kata/56269eb78ad2e4ced1000013/
 
-import math
-    
-
 def is_perfect_square(n):
-    return (math.sqrt(n)).is_integer()
+    return (n ** 0.5).is_integer()
         
     
 def find_next_square(sq):
