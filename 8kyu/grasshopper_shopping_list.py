@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/560c31275c39c481c4000022/
 
-
 sandwiches = 4
 salads = 6
 wraps = 5
