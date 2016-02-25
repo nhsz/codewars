@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/55cb854deb36f11f130000e1/
 
-
 def weather_info(temp):
     celsius = convert_to_celsius(temp)
 
