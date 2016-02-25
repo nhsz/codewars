@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/568018a64f35f0c613000054/
 
-
 class Guesser:
     def __init__(self, number, lives):
         self.number = number
@@ -17,5 +16,4 @@ class Guesser:
                 else:
                     guessed = True
                     return True
-
             raise ValueError('Expect error: "Omae wa mo shindeiru"')
