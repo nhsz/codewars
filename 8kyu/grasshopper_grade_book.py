@@ -13,4 +13,3 @@ def get_grade(s1, s2, s3):
         return "D"
     else:
         return "F"
-
