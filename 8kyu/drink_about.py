@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/56170e844da7c6f647000063/
 
-
 def people_with_age_drink(age):
     kids = xrange(14)
     teens = xrange(14, 18)
