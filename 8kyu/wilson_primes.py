@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/55dc4520094bbaf50e0000cb/
 
-
 from math import factorial
 
 
