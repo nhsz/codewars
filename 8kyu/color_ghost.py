@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/53f1015fa9fe02cbda00111a/
 
-
 import random
 
 
