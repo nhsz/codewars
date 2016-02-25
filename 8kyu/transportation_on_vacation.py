@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/568d0dd208ee69389d000016/
 
-
 def rental_car_cost(d):
     total = 40 * d
     
