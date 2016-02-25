@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/53d16bd82578b1fb5b00128c/
 
-
 def grader(score):
     if score > 1 or score < 0.6:
         return "F"
