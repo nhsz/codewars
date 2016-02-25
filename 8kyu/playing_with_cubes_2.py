@@ -1,6 +1,5 @@
 # http://www.codewars.com/kata/55c0ac142326fdf18d0000af/
 
-
 class Cube:
     def __init__(self, side=0):
         """Construct the Cube"""
