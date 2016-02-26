@@ -1,0 +1,14 @@
+# http://www.codewars.com/kata/5300901726d12b80e8000498/
+
+def fizzbuzz(n):
+    array = []
+    for i in xrange(1, n + 1):
+        if i % 3 == 0 and i % 5 == 0:
+            array.append("FizzBuzz")
+        elif i % 3 == 0:
+            array.append("Fizz")
+        elif i % 5 == 0:
+            array.append("Buzz")
+        else:
+            array.append(i)
+    return array
