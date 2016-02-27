@@ -1,6 +1,6 @@
 # http://www.codewars.com/kata/547274e24481cfc469000416/
 
-def God():
+def god():
     return [Man(), Woman()]
 
 
