@@ -2,8 +2,8 @@
 
 def is_perfect_square(n):
     return (n ** 0.5).is_integer()
-        
-    
+
+
 def find_next_square(sq):
     if not is_perfect_square(sq):
         return -1
