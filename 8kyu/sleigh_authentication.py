@@ -2,5 +2,5 @@
 
 class Sleigh(object):
     @classmethod
-    def authenticate(self, name, password):
+    def authenticate(cls, name, password):
         return name == "Santa Claus" and password == "Ho Ho Ho!"
