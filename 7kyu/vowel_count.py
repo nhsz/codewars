@@ -1,6 +1,6 @@
 # http://www.codewars.com/kata/54ff3102c1bad923760001f3/
 
-def getCount(input_string):
+def get_count(input_string):
     num_vowels = 0
     for letter in input_string:
         if letter in {'a', 'e', 'i', 'o', 'u'}:
