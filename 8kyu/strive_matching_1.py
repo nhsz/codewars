@@ -3,5 +3,5 @@
 def match(candidate, job):
     try:
         return candidate["min_salary"] * 0.9 <= job["max_salary"]
-    except: 
+    except KeyError:
         raise Exception("Invalid match")
