@@ -3,6 +3,6 @@
 sandwiches = 4
 salads = 6
 wraps = 5
-frenchFries = 10
+french_fries = 10
 
-totalPrice = sandwiches * 8.0 + salads * 7.0 + wraps * 6.5 + frenchFries * 1.2
+total_price = sandwiches * 8.0 + salads * 7.0 + wraps * 6.5 + french_fries * 1.2
