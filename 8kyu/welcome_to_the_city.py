@@ -2,4 +2,4 @@
 
 def say_hello(name, city, state):
     name = " ".join(name)
-    return "Hello, {}! Welcome to {}, {}!".format(name, city, state)
+    return "Hello, {0}! Welcome to {1}, {2}!".format(name, city, state)
