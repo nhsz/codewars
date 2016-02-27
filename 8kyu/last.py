@@ -3,5 +3,5 @@
 def last(*args):
     try:
         return args[-1][-1]
-    except:
+    except TypeError:
         return args[-1]
