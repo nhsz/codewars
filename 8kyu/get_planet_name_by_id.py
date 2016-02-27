@@ -1,6 +1,6 @@
 # http://www.codewars.com/kata/515e188a311df01cba000003/
 
-def get_planet_name(id):
+def get_planet_name(planet_id):
     switch = {
         1: "Mercury",
         2: "Venus",
@@ -12,4 +12,4 @@ def get_planet_name(id):
         8: "Neptune"
     }
 
-    return switch.get(id)
+    return switch.get(planet_id)
