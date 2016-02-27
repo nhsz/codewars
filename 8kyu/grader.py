@@ -1,7 +1,7 @@
 # http://www.codewars.com/kata/53d16bd82578b1fb5b00128c/
 
 def grader(score):
-    if score > 1 or score < 0.6:
+    if score < 0.6 or score > 1:
         return "F"
     elif score >= 0.9:
         return "A"
