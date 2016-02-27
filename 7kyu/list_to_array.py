@@ -6,5 +6,5 @@ def list_to_array(lst):
         while True:
             array.append(lst.value)
             lst = lst.next
-    except:
+    except AttributeError:
         return array
