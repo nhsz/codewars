@@ -3,8 +3,8 @@
 def solution(digits):
     start = 0
     end = 4
-    largest_number_found = digits[start:end + 1]
-    
+    largest_number_found = digits[:end + 1]
+
     while end < len(digits):
         current_number = digits[start:end + 1]
         if current_number > largest_number_found:
