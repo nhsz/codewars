@@ -31,7 +31,7 @@ function banana() {
 //answer some questions if you finished works above
 function answer1() {
   // the answer should be "yes" or "no"
-  return "yes";
+  return "no";
 }
 
 function answer2() {
