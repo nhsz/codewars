@@ -4,8 +4,8 @@
 ![Profile](https://www.codewars.com/users/nhquiroz/badges/large)
 
 
-### Problems solved: 139
+### Problems solved: 141
   
 - **5kyu:** 2
 - **7kyu:** 27
-- **8kyu:** 110
+- **8kyu:** 112
