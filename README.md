@@ -4,6 +4,8 @@
   <br>
 </h1>
 
+My solutions for Codewars' Katas.
+
 ![Profile](https://www.codewars.com/users/nhquiroz/badges/large)
 
 ## Problems solved: 141
