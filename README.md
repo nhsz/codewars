@@ -1,10 +1,6 @@
-<h1 align="center">
-  <br>
-    :coffee: Codewars 
-  <br>
-</h1>
+# :coffee: Codewars
 
-My solutions for Codewars' Katas.
+> My solutions for Codewars' Katas.
 
 ![Profile](https://www.codewars.com/users/nhquiroz/badges/large)
 
